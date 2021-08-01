@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Mradul Agarwal",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "mradulagarwal790@gmail.com",
+		"phone": "9109294545",
+		"website": "https://mradul71.github.io/",
+		"summary": "I am an enthusiastic programmer as well as a web developer in MERN stack. ",
+		"location": {
+			"address": "23, Tansen Road, near bariya complex, Hazira",
+			"postalCode": "474001",
+			"city": "Gwalior",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "MradulAgarwal12",
+				"url": "https://www.twitter.com/"MradulAgarwal12"
+			},
+			{
+				"network": "Github",
+				"username": "mradul71",
+				"url": "https://gist.github.com/mradul71"
+			},
+			{
+				"network": "linkedin",
+				"username": "Mradul Agarwal",
+				"url": "https://www.linkedin.com/in/mradul-agarwal/"
+			},
+			{
+				"network": "Instagram",
+				"username": "mradul61",
+				"url": "https://www.instagram.com/mradul61/"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "DSC IIIT Kota",
+		"position": "Core Team Member",
+		"website": "",
+		"startDate": "2020-09",
+		"endDate": "2021-07",
+		"summary": "Here I volunteered and helped my colleagues as well as juniors to learn about new things an guided them to their technical stack.",
+		"highlights": [Build Animate hackthon website, Took online lecture for google cloud services]
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08",
+		"endDate": "2023-04",
+		"gpa": "8.27",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "NodeJs", "DSA"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton", "Volleyball"]
+	}],
+	"references": []
+}
